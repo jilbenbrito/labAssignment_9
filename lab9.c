@@ -3,6 +3,7 @@
 
 /* 
 code incomplete, couldn't figure out a solution, my apologies
+would love feedback
 hope i can still get some credit for what is written
 */
 
